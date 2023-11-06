@@ -47,23 +47,29 @@ class ATM:
 
         while True:
             if user_need == 1:
-                withdraw()            
+                withdraw()
+                break           
             
             elif user_need == 2:
-                deposit()              
+                deposit()  
+                break            
 
             elif user_need == 3:
-                transfer()          
+                transfer() 
+                break         
 
             elif user_need == 4:
-                pay_bill() 
+                pay_bill()
+                break 
             
             elif user_need == 5:
                 print("See you again. Thank you.") 
+                break
 
             else:
                 print("Your service is invalid. Please try again.")
                 break
+
 
 ## create instance
 atm1 = ATM("Marry Jane", "SCB")
