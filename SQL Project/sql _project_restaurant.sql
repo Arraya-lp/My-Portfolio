@@ -1,3 +1,5 @@
+https://replit.com/@arrayalukpoo/bootcampbatch08sqlrestaurant#main.sql
+
 -- open database
 .open restaurant.db
 
