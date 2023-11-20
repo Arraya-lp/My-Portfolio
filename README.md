@@ -15,3 +15,5 @@ All topics I learned are related to data science skills. This bootcamp has 10 sp
 - Essential Machine Learning for Data Analyst
 - Essential Python for Data Analyst
 - Dashboard
+
+Visit my LinkedIn via: www.linkedin.com/in/arraya-sitpanuwong-49214420b
