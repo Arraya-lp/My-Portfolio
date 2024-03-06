@@ -1,5 +1,5 @@
-# Data-Science-Bootcamp-8
-My data portfolio for data analyst role
+# My Portfolio
+This is my Data Portfolio for the Data Analyst role. The projects showcased here were completed during my Data Science Bootcamp.
 
 ## What I learned from this bootcamp
 
